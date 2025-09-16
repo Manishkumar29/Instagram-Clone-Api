@@ -1,0 +1,8 @@
+fastapi # for api
+uvicorn # for running server
+sqlalchemy # for db
+passlib #for hasing password
+bcrypt # for hasing password
+python-multipart # for uploading files like images
+aiofiles # for seting our folder static
+python-jose # authentication library JavaScript Object Signing and Encryption (JOSE) implementation in Python. It supports:Signing and verifying JWTs,Encryption and decryption (JWE),JWK (Key) management
